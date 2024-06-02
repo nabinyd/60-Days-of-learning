@@ -12,3 +12,37 @@
   - Transfer Learning
 - **PyTorch**
 - **Workflow of PyTorch**
+
+## Day 2
+## How to Approach This Course
+
+### PyTorch Fundamentals
+
+#### Introduction to Tensors
+- **Random Tensors**
+- **Zeros and Ones**
+- **Creating a Range of Tensors and Tensors-like**
+
+#### Tensor Datatypes
+- **Data Types (dtype)**
+
+#### Finding Details of a Tensor
+
+#### Manipulating Tensors (Tensor Operations)
+- **Mathematical Operations**
+- **Reduction Operations**
+  - sum
+  - mean
+  - max
+  - min
+  - product
+
+#### Indexing and Slicing
+- **Indexing**
+- **Slicing**
+- **Advanced Indexing**
+
+#### Shape Manipulation
+- **Reshape**
+- **Transpose**
+- **Concatenate**
