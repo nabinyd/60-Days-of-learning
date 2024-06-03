@@ -46,3 +46,16 @@
 - **Reshape**
 - **Transpose**
 - **Concatenate**
+
+## Day 3
+
+### Topics Covered
+- **Reshaping, Stacking, Squeezing, and Unsqueezing Tensors**
+  - reshape
+  - view
+  - torch.stack()
+  - torch.squeeze()
+  - torch.unsqueeze
+  - permute
+- **PyTorch Tensors & NumPy**
+- **Reproducibility (Trying to Take Random Out of Random)**
