@@ -59,3 +59,12 @@
   - permute
 - **PyTorch Tensors & NumPy**
 - **Reproducibility (Trying to Take Random Out of Random)**
+## Day 4
+
+### Topics Covered
+- **PyTorch Workflow**
+  - Data (Preparing and Loading)
+  - Linear Regression
+  - Splitting Data into Training and Test Sets (One of the Most Important Concepts in Machine Learning in General)
+
+
