@@ -67,4 +67,18 @@
   - Linear Regression
   - Splitting Data into Training and Test Sets (One of the Most Important Concepts in Machine Learning in General)
 
+  ## Day 5
 
+### Topics Covered
+- **Building Models**
+- **Gradient Descent**
+- **Checking the Contents of a PyTorch Model**
+- **torch.inference_mode()**
+- **Training Models**
+
+## Day 6
+
+### Topics Covered
+- **Building a Training Loop (and a Testing Loop) in PyTorch**
+- **Detailed Breakdown**
+- **Saving a Model**
