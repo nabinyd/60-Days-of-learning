@@ -82,3 +82,9 @@
 - **Building a Training Loop (and a Testing Loop) in PyTorch**
 - **Detailed Breakdown**
 - **Saving a Model**
+
+## Day 7
+
+### Topics Covered
+Day 7: Covered loading PyTorch models, creating device-agnostic code, preparing data, building, and training models. Putting all the pieces together! 🚀
+
