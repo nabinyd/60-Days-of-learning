@@ -82,9 +82,16 @@
 - **Building a Training Loop (and a Testing Loop) in PyTorch**
 - **Detailed Breakdown**
 - **Saving a Model**
+- **Loading model**
 
 ## Day 7
 
 ### Topics Covered
 Day 7: Covered loading PyTorch models, creating device-agnostic code, preparing data, building, and training models. Putting all the pieces together! 🚀
 
+## Day 8
+
+### Topics Covered
+- **Neural Network Classification**
+- **Making Classification Data and Getting It Ready**
+- **Making Dataframe of Circles**
