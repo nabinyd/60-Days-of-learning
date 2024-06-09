@@ -95,3 +95,11 @@ Day 7: Covered loading PyTorch models, creating device-agnostic code, preparing 
 - **Neural Network Classification**
 - **Making Classification Data and Getting It Ready**
 - **Making Dataframe of Circles**
+
+## Day 9
+
+### Topics Covered
+
+Day 9: Checked input/output shapes, viewed the first sample, turned data into tensors, created train/test splits, built a model, made predictions, and used scikit-learn for train/test split. 🚀📊
+
+
