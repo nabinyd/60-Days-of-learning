@@ -102,4 +102,14 @@ Day 7: Covered loading PyTorch models, creating device-agnostic code, preparing 
 
 Day 9: Checked input/output shapes, viewed the first sample, turned data into tensors, created train/test splits, built a model, made predictions, and used scikit-learn for train/test split. 🚀📊
 
+## Day 10
+
+### Topics Covered
+- **Setup Loss Function and Optimizer**
+- **Calculate Accuracy**
+- **Train a Model**
+- **Going from Raw Logits to Prediction Probabilities to Prediction Labels**
+- **Using Sigmoid**
+- **Building a Training and Testing Loop**
+
 
