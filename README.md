@@ -112,4 +112,11 @@ Day 9: Checked input/output shapes, viewed the first sample, turned data into te
 - **Using Sigmoid**
 - **Building a Training and Testing Loop**
 
+## Day 11
+
+### Topics Covered
+- **Make Predictions and Evaluate the Model**
+- **Improving a Model (From a Model Perspective)**
+- **Preparing Data to See if Our Model Can Fit a Straight Line**
+
 
