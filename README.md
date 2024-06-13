@@ -123,3 +123,15 @@ Day 9: Checked input/output shapes, viewed the first sample, turned data into te
 
 ### Topics Covered
  Adjusted model_1 to fit a straight line, conducted observations and analysis, evaluated model performance, identified possible improvements, addressed the missing piece: non-linearity, recreated non-linear data (red and blue circles), performed train/test split, and built a model with non-linearity. 🚀🔄
+
+## Day 13
+
+### Topics Covered
+- **What is an Activation Function in Neural Networks?**
+- **Building a Model with Non-Linearity**
+- **Training a Model with Non-Linearity**
+- **Evaluating a Model with Non-Linear Activation Functions**
+- **Description of Evaluated Model**
+- **Replicating Non-Linear Activation Functions**
+- **Putting it All Together with a Multi-Class Classification**
+- **Creating a Toy Multi-Class Dataset**
