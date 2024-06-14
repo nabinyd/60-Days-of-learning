@@ -135,3 +135,13 @@ Day 9: Checked input/output shapes, viewed the first sample, turned data into te
 - **Replicating Non-Linear Activation Functions**
 - **Putting it All Together with a Multi-Class Classification**
 - **Creating a Toy Multi-Class Dataset**
+
+## Day 14
+
+### Topics Covered
+- **Building a Multi-Class Classification in PyTorch**
+- **Creating a Loss Function and an Optimizer for a Multi-Class Classification Model**
+- **Getting Prediction Probabilities for a Multi-Class PyTorch Model**
+- **Converting Logits to Prediction Probabilities with Softmax**
+- **Building Training and Testing Loops for a Multi-Class PyTorch Model**
+- **Making and Evaluating Predictions with a PyTorch Multi-Class Model**
