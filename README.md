@@ -145,3 +145,12 @@ Day 9: Checked input/output shapes, viewed the first sample, turned data into te
 - **Converting Logits to Prediction Probabilities with Softmax**
 - **Building Training and Testing Loops for a Multi-Class PyTorch Model**
 - **Making and Evaluating Predictions with a PyTorch Multi-Class Model**
+
+## Day 15
+
+### Topics Covered
+- **Computer Vision Networks**
+- **Images**
+- **Convolutional Neural Networks (CNN)**
+- **Dataset**
+- **Visualizing Data**
