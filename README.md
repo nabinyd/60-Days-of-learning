@@ -154,3 +154,19 @@ Day 9: Checked input/output shapes, viewed the first sample, turned data into te
 - **Convolutional Neural Networks (CNN)**
 - **Dataset**
 - **Visualizing Data**
+  
+## Day 16
+
+### Topics Covered
+- **Preparing Dataloaders**
+- **Model 0: Building a Baseline Model**
+- **Setting Up Loss, Optimizer, and Evaluation Metrics**
+- **Creating a Function to Time Experiments**
+
+## Day 17
+
+### Topics Covered
+- **Creating a Training Loop and Training a Model on Batches of Data**
+- **Making Predictions and Getting Model 0 Results**
+- **Setting Up Device-Agnostic Code**
+
