@@ -170,3 +170,17 @@ Day 9: Checked input/output shapes, viewed the first sample, turned data into te
 - **Making Predictions and Getting Model 0 Results**
 - **Setting Up Device-Agnostic Code**
 
+## Day 18
+
+### Topics Covered
+- **Model 1: Building a Better Model with Non-Linearity**
+- **Setting Up Loss, Optimizer, and Evaluation Metrics**
+- **Functionizing Training and Evaluation/Testing**
+- **Train Loop Function**
+- **Test Loop Function**
+
+## Day 19
+
+### Topics Covered
+- **Get Model 1 Results**
+- **Model 2: Building a Convolutional Neural Network (CNN)**
