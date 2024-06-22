@@ -1,6 +1,6 @@
-***Please star this repo, counting total number of viewer.!!***
+***Please star this repo!!***
 
-# 60-Days-of-learning
+# 60-Days-of-learning / Deep learning PyTorch
 ## Day 1
 
 ### Topics Covered
@@ -186,3 +186,21 @@ Day 9: Checked input/output shapes, viewed the first sample, turned data into te
 ### Topics Covered
 - **Get Model 1 Results**
 - **Model 2: Building a Convolutional Neural Network (CNN)**
+
+## Day 20
+- **Explanation of the CNN model**
+- **Stepping through `nn.Conv2d()`**
+- **Stepping through `nn.MaxPool2d()`**
+
+## Day 21
+- **Set up a loss function and optimizer for Model 2**
+- **Training and testing Model 2 using our training and test functions**
+- **Get Model 2 results**
+- **Compare model results and training time**
+- **Make and evaluate random predictions with the best model**
+- **Plot predictions**
+
+## Day 22
+- **Making a confusion matrix for further prediction evaluation**
+- **Save and load the best performing model**
+
