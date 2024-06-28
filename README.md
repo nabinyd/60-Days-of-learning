@@ -204,3 +204,36 @@ Day 9: Checked input/output shapes, viewed the first sample, turned data into te
 - **Making a confusion matrix for further prediction evaluation**
 - **Save and load the best performing model**
 
+## **Day 23**
+- **Learned about PyTorch Custom Datasets**
+- **Imported PyTorch and set up device-agnostic code**
+- **Retrieved data**
+- **Prepared and explored data**
+- **Visualized an image to understand the data better**
+
+## **Day 24**
+- **Explored transforming data with `torchvision.transforms`**
+- **Learned how to load image data using `ImageFolder`**
+- **Examined dataset details**
+
+## **Day 25**
+- **Turned loaded images into DataLoaders**
+- **Explored loading image data with a custom dataset**
+- **Created helper functions to get class names**
+
+## **Day 26**
+- **Created helper functions to get class names**
+- **Built a custom Dataset to replicate `ImageFolder`**
+
+## **Day 27**
+- **Created a function to display random images**
+- **Turned custom loaded images into DataLoaders**
+- **Explored data augmentation**
+
+## **Day 28**
+- **Built Model 0: Tiny VGG without data augmentation**
+- **Created transforms and loaded data for Model 0**
+- **Defined the TinyVGG model class**
+- **Tested the model with a forward pass on a single image**
+
+
