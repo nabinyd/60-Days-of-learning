@@ -236,4 +236,57 @@ Day 9: Checked input/output shapes, viewed the first sample, turned data into te
 - **Defined the TinyVGG model class**
 - **Tested the model with a forward pass on a single image**
 
+## Day 29
+**Use `torchinfo` to get an idea of the shapes going through our model**  
+**Create train and test loop functions**  
+**Creating a `train()` function to combine `train_step()` and `test_step()`**  
+**Train and evaluate model 0**
+
+## Day 30
+**Plot the loss curves of Model 0**  
+**What should an ideal loss curve look like?**  
+**Model 1: TinyVGG with Data Augmentation**  
+**Create transform with data augmentation**  
+**Create train and test Datasets and DataLoader with data augmentation**  
+**Construct and train model 1**  
+**Plot the loss curves of model 1**  
+**Compare model results**
+
+## Day 31
+**Making a prediction on a custom image**  
+**Loading in a custom image with PyTorch**  
+**Making a prediction on a custom image with a trained PyTorch model**  
+**Putting custom image prediction together: building a function**
+
+## Day 32
+**Create Datasets and Dataloaders (script mode)**  
+**Making a model (TinyVGG) with a script (`model_builder.py`)**  
+**Turn training functions into a script (`engine.py`)**  
+**Create a file called `utils.py` with utility functions**  
+**Train, evaluate, and save the model (script mode) -> `train.py`**
+
+## Day 33
+**Transfer Learning Overview**  
+**Why use Transfer Learning?**  
+**What we are going to cover?**  
+**Get data**  
+**Create Datasets and DataLoaders**
+
+## Day 34
+**Create Datasets and DataLoaders**  
+**Creating a transform for `torchvision.models` (manual creation)**  
+**Creating a transform for `torchvision.models` (auto creation)**
+
+## Day 35
+**Getting a pretrained model**  
+**Which pretrained model should you use?**  
+**Setting up pretrained model**  
+**Getting a summary of our model with `torchinfo.summary()`**  
+**Freezing the base model and changing the output layer to suit our needs**  
+**Train model**  
+**Evaluate model by plotting curves**  
+**Detailed analysis of Model Performance Curves**
+
+## Day 36
+**Make predictions on images from the test set**
 
