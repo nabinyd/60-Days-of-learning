@@ -287,6 +287,69 @@ Day 9: Checked input/output shapes, viewed the first sample, turned data into te
 **Evaluate model by plotting curves**  
 **Detailed analysis of Model Performance Curves**
 
-## Day 36
-**Make predictions on images from the test set**
+## Day 36:
+
+- **Made predictions on images from the test set**
+- **Analyzed the results**
+
+## Day 37:
+
+- **Created a random list of image paths and predictions**
+- **Plotted the images with predictions**
+
+## Day 38:
+
+- **Get data**
+- **Create Datasets and DataLoaders**
+  - **Create DataLoaders with manual transforms**
+  - **Create DataLoaders using automatically created transforms**
+
+## Day 39:
+
+- **Freeze the base layers and change the classifier's head**
+- **Train a single model and track results**
+- **View our model's results with TensorBoard**
+
+## Day 40:
+
+- **Create a function to prepare a SummaryWriter() instance**
+- **Update the train() function to include writer parameter**
+- **Set up a series of modelling experiments**
+  - **What kind of experiments should you run?**
+  - **What experiments are we going to run?**
+  - **Download different datasets**
+  - **Transform Datasets and Create Dataloaders**
+
+## Day 41:
+
+- **Create feature extraction models**
+- **Set up experiments and organize training code**
+- **View experiments in TensorBoard**
+
+## Day 42: PyTorch Paper Replicating
+
+- **Get Setup**
+- **Get data**
+- **Create Datasets and DataLoaders**
+
+## Day 43: 
+
+- **Visualize a single image**
+- **ViT overview: pieces of the puzzle**
+
+## Day 44: 
+
+- **Four equations**
+- **Equation 1: Split data into patches and creating the class, position, and patch embedding**
+
+## Day 45: 
+
+- **Calculating patch embedding input and output shapes by hand**
+- **Turning a single image into patches**
+
+## Day 46: 
+
+- **Creating image patches and turning them into patch embeddings**
+- **Flattening the patch embeddings with torch.nn.Flatten()**
+- **Turning the ViT patch embedding layer into a PyTorch module**
 
