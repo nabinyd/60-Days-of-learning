@@ -353,3 +353,67 @@ Day 9: Checked input/output shapes, viewed the first sample, turned data into te
 - **Flattening the patch embeddings with torch.nn.Flatten()**
 - **Turning the ViT patch embedding layer into a PyTorch module**
 
+## Day 47
+
+- **4.6 Creating the class token embedding**  
+- **4.7 Creating the position embedding**  
+- **4.8 Putting it all together: from image to embedding**
+
+## Day 48
+
+- **Equation 2: Multihead Self-Attention (MSA block)**  
+- **Equation 3: Multilayer Perception (MLP block)**
+
+## Day 49
+
+- **7. Creating the transformer Encoder**  
+- **7.1 Create a custom Transformer Encoder Block**  
+- **7.2 Create a Transformer Encoder layer with in-built PyTorch layers**
+
+## Day 50
+
+- **8. Putting it all together to create ViT**  
+- **8.1 Getting a visual summary of our ViT model**  
+- **9. Setting up training code for our custom ViT**  
+- **9.1 Creating an optimizer**  
+- **9.2 Creating a loss function**  
+- **9.3 Training our ViT model**
+
+## Day 51
+
+- **9.4 What our training setup is missing**  
+- **9.5 Plotting loss curves for our model**  
+- **10. Using a pretrained ViT from torchvision.models**  
+- **10.2 Preparing data for the pretrained ViT model**  
+- **10.4 Train feature extractor ViT model**  
+- **10.5 Plot the loss curves of our pretrained ViT feature extractor model**  
+- **10.6 Save our best performing ViT model**
+
+## Day 52
+
+- **09 PyTorch Model deployment**  
+- **0 Get setup**  
+- **Setup device-agnostic code**  
+- **Getting data**  
+- **2 FoodVision Mini model deployment experiment outline**
+
+## Day 53
+
+- **3. Creating an EffNetB2 feature extractor**  
+- **3.1 Creating a function to make an EffNetB2 feature extractor**  
+- **3.2 Creating DataLoaders for EffNetB2**  
+- **3.3 Training EffNetB2 feature extractor**  
+- **3.4 Inspecting EffNetB2 loss curves**  
+- **3.5 Saving EffNetB2 feature extractor**  
+- **3.6 Checking the size of EffNetB2 feature extractor**
+
+## Day 54
+
+- **4. Creating a ViT feature extractor**  
+- **4.1 Create dataloaders for ViT feature extractor**  
+- **4.2 Training ViT feature extractor**  
+- **4.3 Inspecting ViT loss curves**  
+- **4.4 Saving ViT feature extractor**  
+- **4.5 Checking the size of ViT feature extractor**  
+- **4.6 Collecting ViT feature extractor stats**
+
