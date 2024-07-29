@@ -226,66 +226,75 @@ Day 9: Checked input/output shapes, viewed the first sample, turned data into te
 - **Built a custom Dataset to replicate `ImageFolder`**
 
 ## **Day 27**
+
 - **Created a function to display random images**
 - **Turned custom loaded images into DataLoaders**
 - **Explored data augmentation**
 
 ## **Day 28**
+
 - **Built Model 0: Tiny VGG without data augmentation**
 - **Created transforms and loaded data for Model 0**
 - **Defined the TinyVGG model class**
 - **Tested the model with a forward pass on a single image**
 
 ## Day 29
-**Use `torchinfo` to get an idea of the shapes going through our model**  
-**Create train and test loop functions**  
-**Creating a `train()` function to combine `train_step()` and `test_step()`**  
-**Train and evaluate model 0**
+
+- **Use `torchinfo` to get an idea of the shapes going through our model**  
+- **Create train and test loop functions**  
+- **Creating a `train()` function to combine `train_step()` and `test_step()`**  
+- **Train and evaluate model 0**
 
 ## Day 30
-**Plot the loss curves of Model 0**  
-**What should an ideal loss curve look like?**  
-**Model 1: TinyVGG with Data Augmentation**  
-**Create transform with data augmentation**  
-**Create train and test Datasets and DataLoader with data augmentation**  
-**Construct and train model 1**  
-**Plot the loss curves of model 1**  
-**Compare model results**
+
+- **Plot the loss curves of Model 0**  
+-**What should an ideal loss curve look like?**  
+- **Model 1: TinyVGG with Data Augmentation**  
+- **Create transform with data augmentation**  
+- **Create train and test Datasets and DataLoader with data augmentation**  
+- **Construct and train model 1**  
+- **Plot the loss curves of model 1**  
+- **Compare model results**
 
 ## Day 31
-**Making a prediction on a custom image**  
-**Loading in a custom image with PyTorch**  
-**Making a prediction on a custom image with a trained PyTorch model**  
-**Putting custom image prediction together: building a function**
+
+- **Making a prediction on a custom image**  
+- **Loading in a custom image with PyTorch**  
+- **Making a prediction on a custom image with a trained PyTorch model**  
+- **Putting custom image prediction together: building a function**
 
 ## Day 32
-**Create Datasets and Dataloaders (script mode)**  
-**Making a model (TinyVGG) with a script (`model_builder.py`)**  
-**Turn training functions into a script (`engine.py`)**  
-**Create a file called `utils.py` with utility functions**  
-**Train, evaluate, and save the model (script mode) -> `train.py`**
+
+- **Create Datasets and Dataloaders (script mode)**  
+- **Making a model (TinyVGG) with a script (`model_builder.py`)**  
+- **Turn training functions into a script (`engine.py`)**  
+- **Create a file called `utils.py` with utility functions**  
+- **Train, evaluate, and save the model (script mode) -> `train.py`**
 
 ## Day 33
-**Transfer Learning Overview**  
-**Why use Transfer Learning?**  
-**What we are going to cover?**  
-**Get data**  
-**Create Datasets and DataLoaders**
+
+- **Transfer Learning Overview**  
+- **Why use Transfer Learning?**  
+- **What we are going to cover?**  
+- **Get data**  
+- **Create Datasets and DataLoaders**
 
 ## Day 34
-**Create Datasets and DataLoaders**  
-**Creating a transform for `torchvision.models` (manual creation)**  
-**Creating a transform for `torchvision.models` (auto creation)**
+
+- **Create Datasets and DataLoaders**  
+- **Creating a transform for `torchvision.models` (manual creation)**  
+- **Creating a transform for `torchvision.models` (auto creation)**
 
 ## Day 35
-**Getting a pretrained model**  
-**Which pretrained model should you use?**  
-**Setting up pretrained model**  
-**Getting a summary of our model with `torchinfo.summary()`**  
-**Freezing the base model and changing the output layer to suit our needs**  
-**Train model**  
-**Evaluate model by plotting curves**  
-**Detailed analysis of Model Performance Curves**
+
+- **Getting a pretrained model**  
+- **Which pretrained model should you use?**  
+- **Setting up pretrained model**  
+- **Getting a summary of our model with `torchinfo.summary()`**  
+- **Freezing the base model and changing the output layer to suit our needs**  
+- **Train model**  
+- **Evaluate model by plotting curves**  
+- **Detailed analysis of Model Performance Curves**
 
 ## Day 36:
 
@@ -416,4 +425,60 @@ Day 9: Checked input/output shapes, viewed the first sample, turned data into te
 - **4.4 Saving ViT feature extractor**  
 - **4.5 Checking the size of ViT feature extractor**  
 - **4.6 Collecting ViT feature extractor stats**
+
+## Day 55
+
+- **Making predictions with our trained models and timing them**
+- **Creating a function to make predictions across the test dataset**
+- **Making and timing predictions with EffNetB2**
+- **Making and timing predictions with ViT**
+- **Comparing model results, prediction times, and size**
+
+## Day 56
+
+- **Comparing model results, prediction times, and size**
+- **Visualizing the speed vs. performance tradeoff**
+- **Bringing FoodVision Mini to life by creating a Gradio demo**
+- **Gradio overview**
+- **Creating a function to map our inputs and outputs**
+- **Creating a list of example images**
+- **Building a Gradio interface**
+
+## Day 57
+
+- **Turning our FoodVision Mini Gradio Demo into a deployable app**
+- **What is Hugging Face Spaces?**
+- **Deployed Gradio app structure**
+- **Creating a demos folder to store our FoodVision Mini app files**
+- **Creating a folder of example images to use with our FoodVision Mini demo**
+- **Moving our trained EffNetB2 model to our FoodVision Mini demo directory**
+- **Turning our EffNetB2 model into a Python script (model.py)**
+- **Turning our FoodVision Mini Gradio app into a Python script (app.py)**
+- **Creating a requirements file for FoodVision Mini (requirements.txt)**
+- **Deploying our FoodVision Mini app to HuggingFace Spaces**
+- **Downloading our FoodVision Mini app files**
+- **Uploading to Hugging Face**
+
+## Day 58
+
+- **Creating FoodVision Big**
+- **Creating a model and transforms for FoodVision Big**
+- **Getting data for FoodVision Big**
+- **Creating a subset of the Food101 dataset for faster experimenting**
+- **Turning our Food101 datasets into DataLoaders**
+- **Training FoodVision Big model**
+- **Inspecting loss curves of FoodVision Big model**
+- **Saving and loading FoodVision Big**
+- **Checking FoodVision Big model size**
+
+## Day 59
+
+- **Turning our FoodVision Big model into a deployable app**
+- **Downloading an example image and moving it to the examples directory**
+- **Saving Food101 class names to file (class_names.txt)**
+- **Turning our FoodVision Big model into a Python script (model.py)**
+- **Turning our FoodVision Big Gradio app into a Python script (app.py)**
+- **Creating a requirements file for FoodVision Big (requirements.txt)**
+- **Downloading our FoodVision Big app files**
+- **Deploying our FoodVision Big app to HuggingFace Spaces**
 
