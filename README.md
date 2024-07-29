@@ -1,6 +1,13 @@
-***Please star this repo!!***
+***Leave a star if you like it!!!***
 
 # 60-Days-of-learning / Deep learning PyTorch
+
+## **Model Links and Support**
+You can find the models I have built and deployed during this learning challenge on Hugging Face Spaces. Here are the links to the deployed models:
+
+[FoodVision Mini Model](https://huggingface.co/spaces/nabinyd/foodvision_mini)
+[FoodVision Big Model](https://huggingface.co/spaces/nabinyd/foodvision_big)
+
 ## Day 1
 
 ### Topics Covered
