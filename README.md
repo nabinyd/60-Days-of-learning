@@ -489,3 +489,10 @@ Day 9: Checked input/output shapes, viewed the first sample, turned data into te
 - **Downloading our FoodVision Big app files**
 - **Deploying our FoodVision Big app to HuggingFace Spaces**
 
+## Day 60
+
+- **Overviewed the entire 59-day journey of deep learning with PyTorch. From basic tensor operations to deploying advanced models like TinyVGG, EffNetB2, and ViT. Built and deployed interactive Gradio apps.**
+
+
+# Thank you!!!
+
